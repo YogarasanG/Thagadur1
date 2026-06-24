@@ -25,7 +25,7 @@ function About() {
       <p className="answer">
        <b> Mr. A Govindhan, the founder and owner, has been the driving force
         behind our success. </b> With four decades of hands-on experience, his
-        expertise has shaped Thagadur Welding Works into a hub of creativity and
+        expertise has shaped <a href"http://thagadurweldingworks.com/">Thagadur Welding Works</a> into a hub of creativity and
         reliability.
       </p>
       <h4 className="question">Our Valued Customers</h4>
