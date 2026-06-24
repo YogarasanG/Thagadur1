@@ -13,7 +13,7 @@ function Footer() {
           <h3>Quick Links</h3>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="thagadurweldingworks.com">official Website</Link>
             </li>
             <li>
               <Link to="/Product">Product</Link>
